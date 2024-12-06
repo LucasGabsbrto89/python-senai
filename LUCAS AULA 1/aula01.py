@@ -1,0 +1,6 @@
+print('Hello, World!!!')
+print('ZAWARUDO')
+print('BITES ZA DUSTO')
+print('NOP')
+print('KONO DIO DA')
+print('WRYYYYY')
